@@ -10,3 +10,8 @@ Network Preferences..." in the menu.
 2. Click the "+" button on the network configuration screen.
 
 ![Create new service](2.jpg)
+
+3. Select "VPN" as "Interface" , "L2TP over IPsec" as "VPN Type" and click the
+"Create" button.
+
+![Create](3.jpg)
