@@ -15,3 +15,13 @@ Network Preferences..." in the menu.
 "Create" button.
 
 ![Create](3.jpg)
+
+4. A new L2TP VPN configuration will be created, and the configuration screen
+will appear.
+
+On this screen, you have to specify either hostname or IP address of the
+destination SoftEther VPN Server.  After you specified the "Server Address" ,
+input the user-name on the "Account Name" field, which is the next to the
+"Server Address" field.  Next, click the "Authentication Settings..." button.
+
+![configuration](4.jpg)
