@@ -25,3 +25,16 @@ input the user-name on the "Account Name" field, which is the next to the
 "Server Address" field.  Next, click the "Authentication Settings..." button.
 
 ![configuration](4.jpg)
+
+5. The authentication screen will appear. Input your password in the "Password"
+field. Specify the pre-shared key also on the "Shared Secret" field. After you
+input them, click the "OK" button.  After return to the previous screen, check
+the "Show VPN status in menu bar" and click the "Advanced..." button.
+
+![authentication](5.jpg)
+
+6. The advanced settings will be appeared. Check the "Send all traffic over VPN
+connection" and click the "OK" button.  On the VPN connection settings screen,
+click the "Connect" button to start the VPN connection.
+
+![advanced settings](6.jpg)
