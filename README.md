@@ -38,3 +38,8 @@ connection" and click the "OK" button.  On the VPN connection settings screen,
 click the "Connect" button to start the VPN connection.
 
 ![advanced settings](6.jpg)
+
+7.- On the VPN connection settings screen, click the "Connect" button to start
+the VPN connection.
+
+![connect](7.jpg)
